@@ -1,2 +1,2 @@
 # mini-game
-mini game testing
+mini-game testing
